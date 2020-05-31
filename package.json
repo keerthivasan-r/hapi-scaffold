@@ -1,0 +1,19 @@
+{
+  "name": "hapi-scaffold",
+  "version": "1.0.0",
+  "description": "A starter project for hapi.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapijs",
+    "starter-kit",
+    "scaffold"
+  ],
+  "author": "keerthivasan-r",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "18.4.1"
+  }
+}
